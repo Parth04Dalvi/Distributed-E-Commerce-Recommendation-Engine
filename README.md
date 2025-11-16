@@ -1,5 +1,6 @@
 # Distributed-E-Commerce-Recommendation-Engine
 
+<img width="724" height="646" alt="image" src="https://github.com/user-attachments/assets/84337de0-0624-412c-aa07-53963fc2b53a" />
 
 Distributed E-Commerce Recommendation Engine (PySpark Mock) 🛒
 
